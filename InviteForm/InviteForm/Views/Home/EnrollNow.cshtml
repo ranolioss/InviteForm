@@ -1,0 +1,39 @@
+﻿@model InviteForm.Models.Response
+
+@{
+    Layout = null;
+}
+<h1>Invite From </h1>
+<!DOCTYPE html>
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <style>
+        body {
+            background-color:antiquewhite;
+        }
+        p,h1{
+            text-align:center;
+        }
+        .in{
+            margin-left:500px;
+        }
+    </style>
+    <title>Please Fill form</title>
+
+</head>
+<body>
+    @using (Html.BeginForm())
+    {
+        @Html.ValidationSummary()
+      <p>Please enter your name : @Html.TextBoxFor(x => x.Name)</p>
+        <p>Please enter your number :@Html.TextBoxFor(x => x.MobileNumber)</p>
+        <p>Please enter your email : @Html.TextBoxFor(x => x.Email)</p>
+        <p>
+            will you come to our party?  : @Html.DropDownListFor(x => x.AttendOrNot, new[] {new SelectListItem() {Text = "Yes,I will.",Value = bool.TrueString},new SelectListItem() {Text = "No,I wont",
+Value = bool.FalseString}}, "Please select :")
+        </p>
+        <input class="in" type="submit" value="Accept your request" />
+    }
+</body>
+</html>

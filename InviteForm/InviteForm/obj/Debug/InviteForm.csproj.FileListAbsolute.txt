@@ -1,0 +1,158 @@
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\InviteForm.dll.config
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\InviteForm.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\InviteForm.pdb
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\csc.exe
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\csc.exe.config
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\csc.rsp
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\csi.exe
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\csi.exe.config
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\csi.rsp
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\System.AppContext.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\System.Console.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\System.IO.Compression.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\System.Net.Http.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\System.ValueTuple.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\vbc.exe
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\vbc.exe.config
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\vbc.rsp
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\VBCSCompiler.exe
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\Antlr3.Runtime.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\Newtonsoft.Json.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\System.Web.Helpers.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\System.Web.Mvc.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\System.Web.Optimization.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\System.Web.Razor.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\System.Web.WebPages.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\System.Web.WebPages.Razor.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\WebGrease.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\System.Web.Helpers.xml
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\System.Web.Mvc.xml
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\System.Web.Optimization.xml
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\System.Web.Razor.xml
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\System.Web.WebPages.xml
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\System.Web.WebPages.Razor.xml
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\Newtonsoft.Json.xml
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\Antlr3.Runtime.pdb
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\obj\Debug\InviteForm.csprojAssemblyReference.cache
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\obj\Debug\InviteForm.csproj.CoreCompileInputs.cache
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\obj\Debug\InviteForm.csproj.CopyComplete
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\obj\Debug\InviteForm.dll
+C:\Users\Ranolios\source\repos\InviteForm\InviteForm\obj\Debug\InviteForm.pdb
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\InviteForm.dll.config
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\InviteForm.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\InviteForm.pdb
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\csc.exe
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\csc.exe.config
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\csc.rsp
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\csi.exe
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\csi.exe.config
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\csi.rsp
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\Microsoft.Managed.Core.targets
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\System.AppContext.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\System.Collections.Immutable.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\System.Console.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\System.Globalization.Calendars.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\System.IO.Compression.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\System.IO.FileSystem.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\System.Net.Http.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\System.Net.Sockets.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\System.Reflection.Metadata.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\System.ValueTuple.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\System.Xml.XmlDocument.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\System.Xml.XPath.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\vbc.exe
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\vbc.exe.config
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\vbc.rsp
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\VBCSCompiler.exe
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\roslyn\VBCSCompiler.exe.config
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\Antlr3.Runtime.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\Microsoft.Web.Infrastructure.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\Newtonsoft.Json.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\System.Web.Helpers.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\System.Web.Mvc.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\System.Web.Optimization.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\System.Web.Razor.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\System.Web.WebPages.Deployment.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\System.Web.WebPages.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\System.Web.WebPages.Razor.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\WebGrease.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\System.Web.Helpers.xml
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\System.Web.Mvc.xml
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\System.Web.Optimization.xml
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\System.Web.Razor.xml
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\System.Web.WebPages.xml
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\System.Web.WebPages.Deployment.xml
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\System.Web.WebPages.Razor.xml
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\Newtonsoft.Json.xml
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\Antlr3.Runtime.pdb
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\obj\Debug\InviteForm.csprojAssemblyReference.cache
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\obj\Debug\InviteForm.csproj.CoreCompileInputs.cache
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\obj\Debug\InviteForm.csproj.CopyComplete
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\obj\Debug\InviteForm.dll
+E:\vistula university\5rdSmester\Final project\InviteForm\InviteForm\obj\Debug\InviteForm.pdb
